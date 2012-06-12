@@ -1,0 +1,14 @@
+{
+  "author": "vol4ok <hello@vol4ok.net>",
+  "name": "express-app",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "express": ">=2.0.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
